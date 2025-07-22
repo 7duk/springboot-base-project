@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Baseproject
+  profiles:
+    active: dev
+
+logging:
+  level:
+    web: debug
